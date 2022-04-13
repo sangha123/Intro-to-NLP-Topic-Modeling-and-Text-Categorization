@@ -1,2 +1,3 @@
 # Intro-to-NLP-Topic-Modeling-and-Text-Categorization
-Tutorial for odsc 2022
+Tutorial for ODSC 2022 
+
